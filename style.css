@@ -193,7 +193,7 @@ body{
     }
     .money, h1{
         gap: 50px;
-        font-size: 32px;
+        font-size: 45px;
         margin: 0;
     }
 
@@ -201,7 +201,7 @@ body{
         width: 130px;
         height: 35px;
         font-size: 12px;
-        margin-left: 40px;
+        margin-left: 30px;
     }
 
   
