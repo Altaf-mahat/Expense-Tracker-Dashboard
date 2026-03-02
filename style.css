@@ -157,6 +157,9 @@ body{
         box-sizing: border-box;
         padding:10px;
         overflow-x:hidden;
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
     }
 
      .main-container{
@@ -164,8 +167,12 @@ body{
         margin: 20px auto;
         height: auto;
         margin-top: -100px;
+
     }
 
+    .main-title{
+        margin-top: 50px;
+    }
     .container{
         width: 90%;
         
